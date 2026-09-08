@@ -1,11 +1,11 @@
 # HTML WEBSITE DEVELOPMENT ASSIGNMENT
 
-**Student Name:** FREEMAN MUTALE
-**Student ID / SIN:** 2509247414
+**Student Name:** SUNDAY KAYULA
+**Student ID / SIN:** 2512267020
 **Course:** IWD
 **Task:** ASSIGNMENT 1
-**GitHub Repository:** https://github.com/freeman mutale/icu-assignment
-**Date:** 31 AUGUST 1999
+**GitHub Repository:** https://github.com/sunday kayula/icu-assignment
+**Date:** 17 March 1989
 
 ---
 
@@ -15,7 +15,7 @@
 **What it contains:**
 - Header with HELLO ICU title
 - Personal Profile section: NAME, SIN, COURSE, TASK
-- ITEM and DETAILS table with my information (Freeman mutale, 209247414, 31 august,2026 , IWD, ICU)
+- ITEM and DETAILS table with my information (Sunday Kayula, 2512267020, 31 august,2026 , IWD, ICU)
 - Footer with copyright
 - I chose this because it is simple, uses only HTML, and shows my ICU details clearly.
 
@@ -36,7 +36,7 @@
    - nav for links
    - main for main content
    - section for Personal Profile and ITEM DETAILS table
-   - footer for copyright 2026 Freeman Mutale
+   - footer for copyright 2026 Sunday Kayula
 
 3. **Most Useful Element:** `table` was most useful for ITEM and DETAILS layout. It organized my information in rows and columns clearly, better than just p tags.
 
@@ -53,7 +53,7 @@
 ### Question 4: Development Process
 1. **Planning:** I wrote on paper: Top - HELLO ICU, Middle - Personal Profile (NAME, SIN, COURSE, TASK), then ITEM and DETAILS table, Bottom - Footer. I listed needed tags to reach 25 elements.
 
-2. **Testing:** I double-clicked FREEMAN MUTALE IWD.html file path C:/Users/MUTALE FREEMAN/Desktop/FREEMAN MUTALE IWD.html to open in Chrome. Checked table shows. Used W3C validator to check errors. Fixed missing closing tags.
+2. **Testing:** I double-clicked FREEMAN MUTALE IWD.html file path C:\Users\Sunday\Desktop\SCHOOL\SEMESTER2\IWD\Sundaykayula.html to open in Chrome. Checked table shows. Used W3C validator to check errors. Fixed missing closing tags.
 
 3. **Challenges:** My first code had only bold text, no table structure. I fixed by adding proper table, thead, tbody. Footer was outside body - I moved inside. Spaces in filename caused %20 - I renamed to index.html.
 
