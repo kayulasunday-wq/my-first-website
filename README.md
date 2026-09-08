@@ -53,7 +53,7 @@
 ### Question 4: Development Process
 1. **Planning:** I wrote on paper: Top - HELLO ICU, Middle - Personal Profile (NAME, SIN, COURSE, TASK), then ITEM and DETAILS table, Bottom - Footer. I listed needed tags to reach 25 elements.
 
-2. **Testing:** I double-clicked FREEMAN MUTALE IWD.html file path C:\Users\Sunday\Desktop\SCHOOL\SEMESTER2\IWD\Sundaykayula.html to open in Chrome. Checked table shows. Used W3C validator to check errors. Fixed missing closing tags.
+2. **Testing:** I double-clicked Sundaykayula.html file path C:\Users\Sunday\Desktop\SCHOOL\SEMESTER2\IWD to open in Chrome. Checked table shows. Used W3C validator to check errors. Fixed missing closing tags.
 
 3. **Challenges:** My first code had only bold text, no table structure. I fixed by adding proper table, thead, tbody. Footer was outside body - I moved inside. Spaces in filename caused %20 - I renamed to index.html.
 
